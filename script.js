@@ -11,7 +11,7 @@ const questions = [
     },
     {
         question: "Como o celular pode intensificar a dependência emocional?",
-        answers: ["Criando uma sensação de conexão constante, que pode gerar ansiedade", "Ajudando a pessoa a se tornar mais independente emocionalmente", "Eliminando completamente a necessidade de contato social presencial", "Alterando a percepção de realidade e causando desvaneios excessivos"],
+        answers: ["Criando uma sensação de conexão constante, que pode gerar ansiedade", "Ajudando a pessoa a se tornar mais independente emocionalmente", "Eliminando completamente a necessidade de mídias sociais", "Alterando a percepção de realidade e causando desvaneios excessivos"],
         correct: 0
     },
     {
